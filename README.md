@@ -9,7 +9,6 @@ Individually, you will be building the static HTML pages for a mobile responsive
 ### What to hand in 
 1. Create a Github repository and invite me `@jenbeltran` as a Developer so I can access your code files
 2. In your project's `README.md` file, please include the following:
-3. First list item
    - A write up about your application (1-2 paragraphs)
    - User Stories
    - Link to your Figma Design - ensure that I have access to view your Figma design
