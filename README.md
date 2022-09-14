@@ -3,7 +3,7 @@
 Individually, you will be building the static HTML pages for a mobile responsive application of your choice.
 
 ### Project Details
-- Worth 50% of final grade
+- Worth 70% of final grade
 - Some project examples here: https://altcampus.school/posts/10-full-stack-beginner-project-ideas-for-learning-MERN-stack
 
 ### What to hand in 
@@ -12,6 +12,7 @@ Individually, you will be building the static HTML pages for a mobile responsive
    - A write up about your application (1-2 paragraphs)
    - User Stories
    - Link to your Figma Design - ensure that I have access to view your Figma design
+3. On the final day, you have 10-15mins to present your app to the class 
 
     
 
