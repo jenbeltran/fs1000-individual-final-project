@@ -6,7 +6,15 @@ Individually, you will be building the static HTML pages for a mobile responsive
 - Worth 70% of final grade
 - Some project examples here: https://altcampus.school/posts/10-full-stack-beginner-project-ideas-for-learning-MERN-stack
 
-### What to hand in 
+### What is graded?
+1. A write up about your application (1-2 paragraphs) 
+2. User Stories
+3. Figma design of the main page of your app for desktop and mobile (one page just like the cat cafe team website Figma)
+4. HTML and CSS for the main page of your app for desktop and mobile
+5. Final day presentation
+
+
+### Instructions to Hand in Assignment
 1. Create a Github repository and invite me `@jenbeltran` as a Developer so I can access your code files
 2. In your project's `README.md` file, please include the following:
    - A write up about your application (1-2 paragraphs)
