@@ -2,38 +2,38 @@
 
 Individually, you will be building the static HTML pages for a mobile responsive application of your choice.
 
-### Project Details
+## Project Details
 - Worth 70% of final grade
 - Some project examples here: https://altcampus.school/posts/10-full-stack-beginner-project-ideas-for-learning-MERN-stack
 
-### What is graded?
+## What is graded?
 
-## Due Class 3
+### Due Class 3
 1. User Stories
 2. Figma design of the main page of your app for desktop and mobile (one page just like the cat cafe team website Figma)
 
 
-## Due Class 4
+### Due Class 4
 1. A write up about your application (1-2 paragraphs) 
 2. HTML and CSS for the main page of your app for desktop and mobile
 3. Final day presentation
 
-### Instructions to Hand in Assignment
+## Instructions to Hand in Assignment
 
-## Due Class 3
+### Due Class 3
 1. Create a Github repository and invite me `@jenbeltran` as a Developer so I can access your project
 2. In your project's `README.md` file, please include the following:
    - User Stories (at least one for all the different users on your app)
    - Link to your Figma Design - ensure that I have access to view your Figma design 
 
 
-## Due Class 4
+### Due Class 4
 1. In your project's `README.md` file, add your write up about your application (1-2 paragraphs)
 2. Add all your HTML/CSS files
 3. You have 10-15mins to present your app to the class 
    
 
-### Grading
+## Grading
 | Assessment Criteria | Not Good Enough _(0% score <60%)_ | Good _(60% score <90%)_ | Very Good _(%90 score %100)_ | **Marks** |
 | --- | --- | --- | --- | --- |
 | ***User Story*** | Minimal description of user story | Provided at least one user story with some level of description | Student has fully described and provided multiple user stories to give a insight of the app's functionality | **10** |
