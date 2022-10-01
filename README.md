@@ -38,7 +38,7 @@ Individually, you will be building the static HTML pages for a mobile responsive
 ## Grading
 | Assessment Criteria | Not Good Enough _(0% score <60%)_ | Good _(60% score <90%)_ | Very Good _(%90 score %100)_ | **Marks** |
 | --- | --- | --- | --- | --- |
-| ***User Story*** | Minimal description of user story | Provided at least one user story with some level of description | Student has fully described and provided multiple user stories to give a insight of the app's functionality | **10** |
+| ***User Story*** | Minimal description of user story | Provided at least two user stories (for main users and Admins) with some level of description | Student has fully described and provided multiple user stories to give a insight of the app's functionality | **10** |
 | ***Figma Design*** | Student did not make effort in designing any mockups - Did not make designs for any mobile platform. | Student made some effort in designing mockups - Made designs for Desktop and phone | Student made thoughtful designs for Desktop, phone and tablet | **20** |
 | ***Is the design accurate on Desktop?*** | Does not look like the Figma design at breakpoint `1280px`| Looks similar to the Figma design @ breakpoint `1280px` but some styles are off/missing | Looks exactly like the Figma @ breakpoint `1280px` | **20** |
 | ***Is it responsive?*** | Breakpoints added but design breaks between phone and tablet breakpoints | Mobile responsive - Can resize the screen at any point under 768px without breaking the design | Fully responsive! Can resize the screen at any point under 1280px without breaking the design | **30** |
