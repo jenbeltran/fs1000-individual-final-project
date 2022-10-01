@@ -24,7 +24,7 @@ Individually, you will be building the static HTML pages for a mobile responsive
 ### Due Class 3
 1. Create a Github repository and invite me `@jenbeltran` as a Developer so I can access your project
 2. In your project's `README.md` file, please include the following:
-   - User Stories (at least one for all the different users on your app)
+   - User Stories (at least one for your main users and one for Admins)
    - Link to your Figma Design - ensure that I have access to view your Figma design 
 
 
