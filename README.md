@@ -10,7 +10,7 @@ Individually, you will be building the static HTML pages for a mobile responsive
 ## What is graded?
 
 ### Due Class 3 (30% of final grade)
-1. User Stories
+1. User Stories (at least one for your main users and one for Admins)
 2. Figma design of the main page of your app for desktop and mobile 
    - Example: If I'm building a cat adoption website, the main page is the page where I can see all the cats that users can adopt
 
@@ -25,7 +25,7 @@ Individually, you will be building the static HTML pages for a mobile responsive
 ### Due Class 3
 1. Create a Github repository and invite me `@jenbeltran` as a Developer so I can access your project
 2. In your project's `README.md` file, please include the following:
-   - User Stories (at least one for your main users and one for Admins)
+   - User Stories 
    - Link to your Figma Design - ensure that I have access to view your Figma design 
 
 
