@@ -17,7 +17,7 @@ Individually, you will be building the static HTML pages for a mobile responsive
 
 ### Due Class 4 (70% of final grade)
 1. A write up about your application (1-2 paragraphs) 
-2. HTML and CSS for the main page of your app for desktop and mobile
+2. A responsive page - HTML and CSS for the main page of your app 
 3. Final day presentation
 
 ## Instructions to Hand in Assignment
