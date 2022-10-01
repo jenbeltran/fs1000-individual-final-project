@@ -3,17 +3,17 @@
 Individually, you will be building the static HTML pages for a mobile responsive application of your choice.
 
 ## Project Details
-- Worth 70% of final grade
+- Worth 100% of final grade
 - Some project examples here: https://altcampus.school/posts/10-full-stack-beginner-project-ideas-for-learning-MERN-stack
 
 ## What is graded?
 
-### Due Class 3
+### Due Class 3 (30% of final grade)
 1. User Stories
 2. Figma design of the main page of your app for desktop and mobile (one page just like the cat cafe team website Figma)
 
 
-### Due Class 4
+### Due Class 4 (70% of final grade)
 1. A write up about your application (1-2 paragraphs) 
 2. HTML and CSS for the main page of your app for desktop and mobile
 3. Final day presentation
