@@ -3,7 +3,6 @@
 Individually, you will be building the static HTML pages for a mobile responsive application of your choice.
 
 ## Project Details
-- Worth 100% of final grade
 - This project is the HTML and CSS portion to the overall Full Stack Program Project: https://docs.google.com/document/d/1yHtvY4_e3fVfpTYszfXv0a3GZj13n-dfHElbHSDHMeE/edit?usp=sharing
 - Some project examples here: https://altcampus.school/posts/10-full-stack-beginner-project-ideas-for-learning-MERN-stack
 
