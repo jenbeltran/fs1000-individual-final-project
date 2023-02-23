@@ -32,6 +32,9 @@ Individually, you will be building the static HTML pages for a mobile responsive
 1. In your project's `README.md` file, add your write up about your application (1-2 paragraphs)
 2. Add all your HTML/CSS files
 3. You have 10-15mins to present your app to the class 
+
+## Template Example 
+https://github.com/jenbeltran/final-project-example/blob/main/README.md
    
 
 ## Grading
