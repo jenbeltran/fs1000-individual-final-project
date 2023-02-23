@@ -23,6 +23,7 @@ Individually, you will be building the static HTML pages for a mobile responsive
 
 ### Due Class 2
 1. Create a Github repository and invite me `@jenbeltran` as a Developer so I can access your project
+   - please DO NOT invite `@jenbeltrancolab` as that is my work github and I will not be able to access your project (security restrictions)
 2. In your project's `README.md` file, please include the following:
    - User Stories 
    - Link to your Figma Design - ensure that I have access to view your Figma design 
